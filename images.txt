@@ -2,3 +2,4 @@ docker.n8n.io/n8nio/n8n
 registry.cn-wulanchabu.aliyuncs.com/youngxj/moekoe-music:latest
 ghcr.io/beck-8/subs-check:latest
 node:22-alpine
+sickcodes/docker-osx:latest
