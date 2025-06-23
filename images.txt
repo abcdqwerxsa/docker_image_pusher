@@ -1,1 +1,1 @@
-corentinth/it-tools:latest
+docker.io/library/nginx:1.20.2-alpine
