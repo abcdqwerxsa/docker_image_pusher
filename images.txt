@@ -1,1 +1,1 @@
-wxingheng/markdown-to-image-serve:0.0.6
+wxingheng/markdown-to-image-serve
