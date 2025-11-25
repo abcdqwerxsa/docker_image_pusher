@@ -1,1 +1,1 @@
-wxingheng/markdown-to-image-serve
+registry.hf.space/openai-whisper:latest
