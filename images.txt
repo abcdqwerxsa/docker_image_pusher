@@ -1,1 +1,1 @@
-registry.hf.space/openai-whisper:latest
+rancher/mirrored-coredns-coredns:1.10.1
