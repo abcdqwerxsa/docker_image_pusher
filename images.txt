@@ -1,3 +1,1 @@
-registry.k8s.io/nfd/node-feature-discovery:v0.16.4
-registry.k8s.io/nfd/node-feature-discovery:v0.16.4
-registry.k8s.io/nfd/node-feature-discovery:v0.16.4
+rancher/rancher
