@@ -1,3 +1,1 @@
-rancher/mirrored-bci-micro:15.6.24.2
-rancher/shell:v0.6.1
-rancher/turtles:v0.25.1
+rancher/cluster-api-controller:v1.10.6
