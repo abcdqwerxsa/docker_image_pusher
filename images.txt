@@ -1,1 +1,7 @@
-ghcr.io/moltis-org/moltis:latest
+juicedata/juicefs-csi-driver:v0.24.5
+juicedata/juicefs-ce:v1.2.0
+registry.k8s.io/sig-storage/csi-provisioner:v5.0.1
+registry.k8s.io/sig-storage/csi-resizer:v1.10.1
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
+registry.k8s.io/sig-storage/livenessprobe:v2.12.0
+redis:7-alpine
