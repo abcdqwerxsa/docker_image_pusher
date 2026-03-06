@@ -1,1 +1,1 @@
-eceasy/cli-proxy-api-plus:latest
+pytorch-test:latest
