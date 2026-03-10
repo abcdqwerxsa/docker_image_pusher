@@ -1,1 +1,1 @@
-eceasy/cli-proxy-api-plus:latest
+ghcr.io/kite-org/kite:latest
